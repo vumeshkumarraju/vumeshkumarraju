@@ -12,6 +12,4 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vumeshkumarraju&theme=omni)
  
 
-Here are some ideas to get you started:
 
--->

@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 📫 How to reach me: [@vumeshkumarraju](https://www.instagram.com/vumeshkumarraju/)  on instagram
 - 🌱 I’m currently learning Machine learning and deep learning
-- Skillset: C/C++, Python, iOS app development,WEB Front-End Devlopement,Data analysis
+- Skillset: C/C++, Python, iOS app development,HTML,CSS,Java Script,Data analysis
 
 
 ![Umesh's github stats](https://github-readme-stats.vercel.app/api?username=vumeshkumarraju&show_icons=true&count_private=true&theme=omni) 

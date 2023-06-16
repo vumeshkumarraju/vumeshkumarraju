@@ -5,7 +5,6 @@
 - Skillset: C/C++, Python, iOS app development,HTML,CSS,Java Script,Data analysis
 
 
-![Umesh's github stats](https://github-readme-stats.vercel.app/api?username=vumeshkumarraju&show_icons=true&count_private=true&theme=omni) 
 <br>
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vumeshkumarraju&langs_count=5&theme=omni)]()
   <br>
